@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="처음" type="RESOURCE"/>
+  <resource name="제작자,카페" type="RESOURCE"/>
+  <resource name="에디터" type="RESOURCE"/>
+</resources>
